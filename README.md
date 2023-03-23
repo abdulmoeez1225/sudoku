@@ -8,6 +8,8 @@ I want to share something with you, some time ago, I play sudoku game and it rea
 
 The goal of Sudoku is to fill the cells with numbers from 1 to 9. The numbers are placed in 9 squares, 3x3 each, thus, in each row, in each column and in each small square there are 9 cells. The same digit can be used only once in each separate column, each line and in each small square. The level of difficulty depends on how many digits are already indicated in the cells. If you open plenty of numbers - then you have very easy Sudoku.
 
+![](https://github.com/abdulmoeez1225/sudoku/blob/main/demo.png?raw=true)
+
 you can see more details on this link: https://sudoku.com/easy/
 
 ## Game Logic
